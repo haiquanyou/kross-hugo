@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://github.com/haiquanyou/kross-hugo"
+baseURL = "https://haiquanyou.github.io/kross-hugo/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
